@@ -4,6 +4,14 @@
     --animate-repeat: 1;
   }
 
+  /* SVG Animation */
+  svg path,
+  svg rect{
+    fill: black;
+  }
+
+  /* Aniamciones */
+
   .animate__animated {
     -webkit-animation-duration: 0.5s;
     animation-duration: 0.5s;
